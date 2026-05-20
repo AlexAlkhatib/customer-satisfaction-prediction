@@ -20,16 +20,16 @@ Modèles de régression appliqués sur un dataset riche contenant des informatio
 
 Le workflow complet inclut :
 
-✔️ Chargement des données
-✔️ Nettoyage & imputation des valeurs manquantes
-✔️ Encodage des variables catégorielles
-✔️ Analyse exploratoire (EDA)
-✔️ Tests statistiques
-✔️ Corrélations & visualisations
-✔️ Modèles de classification
-✔️ Modèles de régression
-✔️ Optimisation via GridSearchCV
-✔️ Comparaison des performances
+- ✔️ Chargement des données
+- ✔️ Nettoyage & imputation des valeurs manquantes
+- ✔️ Encodage des variables catégorielles
+- ✔️ Analyse exploratoire (EDA)
+- ✔️ Tests statistiques
+- ✔️ Corrélations & visualisations
+- ✔️ Modèles de classification
+- ✔️ Modèles de régression
+- ✔️ Optimisation via GridSearchCV
+- ✔️ Comparaison des performances
 
 
 ## 📂 Dataset
