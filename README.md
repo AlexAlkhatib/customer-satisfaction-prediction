@@ -1,4 +1,4 @@
-# 📊 Customer Satisfaction & Price Prediction
+# ✈️ Customer Satisfaction & Price Prediction
 
 *Modèles de Machine Learning pour analyser la satisfaction client et prédire les prix – données démographiques & comportementales*
 
